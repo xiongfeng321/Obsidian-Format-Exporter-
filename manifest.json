@@ -1,0 +1,11 @@
+{
+	"id": "format-exporter",
+	"name": "格式化导出助手 (Format Exporter)",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "一键将笔记导出为微信公众号、知乎等平台支持的格式，完美保留CSS排版样式和图片。.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
